@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+
+.photo{
+    height:400px;
+    width: 800px;
+    border: 5px solid white;
+
+}
+
+.shid{
+    color: white;
+    font-family: 'Caveat', cursive;
+    font-family: 'Lora', serif;
+    font-size: 50px;
+    font-weight: 800;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#poster{
+    text-align: center;
+}
+
+p{
+    color: white;
+    font-family: 'Caveat', cursive;
+    font-family: 'Lora', serif;
+    font-weight: 100;
+    margin-top: 10;
+
+}
